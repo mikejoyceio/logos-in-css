@@ -1,3 +1,3 @@
-#Logos in Pure CSS
+#Logos in Css
 
 Work in progress :)
