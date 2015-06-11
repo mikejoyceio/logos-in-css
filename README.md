@@ -1,3 +1,3 @@
-#Logos in Css
+#Logos in CSS
 
 Work in progress :)
